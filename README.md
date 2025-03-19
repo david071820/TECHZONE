@@ -10,7 +10,7 @@ Este proyecto consiste en una base de datos diseñada para gestionar una tienda 
 
 * **Lenguaje de Base de Datos:** MySQL
 
-##  Estructura de la Base de Datos
+##  Estructura de la Base de Datos (descripción de los campos principales - detalle)
 
 * **Productos:** Información detallada de cada producto (nombre, descripción, precio, stock).
 * **Clientes:** Datos de los clientes registrados (nombre, dirección, correo electrónico).
